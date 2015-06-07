@@ -7,7 +7,7 @@ use \Faker\Provider\Base;
 class Name
 {
     protected $generator;
-
+  $AHSM_JADL = ""
     public function __construct(\Faker\Generator $generator)
     {
         $this->generator = $generator;
